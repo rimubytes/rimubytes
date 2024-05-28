@@ -1,16 +1,31 @@
 ### Hi there 👋
+```
+apiVersion: v24
+kind: Human
+metadata:
+  name: Marvin Murithi
+spec:
+  purpose: "Bringing creativity and innovation to the tech world"
+  locations:
+    - type: "GitHub Repositories 🛠️"
+      where: "github.com/m-murithi"
+    - type: "LinkedIn Profile 🌐"
+      where: "linkedin.com/in/m-murithi"
+    - type: "Personal Blog 📝"
+      where: "marvinmurithi.com/blog"
+  favourites:
+    number: "24 - The Number of Completeness and Wholeness"
+    animal: "🐶 - Man's best friend"
+    emoji: "🤦 - Because who doesn't have those moments?"
+    food: "🥩 - A delicious, juicy steak"
 
-<!--
-**m-murithi/m-murithi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
 
-Here are some ideas to get you started:
+    - 🔭 I’m currently working on: "Building scalable CI/CD pipelines and improving cloud infrastructure automation."
+    - 🌱 I’m currently learning: "Advanced Kubernetes techniques, Terraform for infrastructure as code, and Prometheus for monitoring."
+    - 👯 I’m looking to collaborate on: "Open source DevOps tools, SRE best practices, and cloud-native applications."
+    - 🤔 I’m looking for help with: "Optimizing container orchestration and implementing effective disaster recovery strategies."
+    - 💬 Ask me about: "Containerization, continuous integration and delivery, and site reliability engineering."
+    - 📫 How to reach me: "You can reach me via [LinkedIn](https://linkedin.com/in/m-murithi) or [GitHub](https://github.com/m-murithi)."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
