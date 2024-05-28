@@ -21,11 +21,11 @@ spec:
 
 ```
 
-    - 🔭 I’m currently working on: "Building scalable CI/CD pipelines and improving cloud infrastructure automation."
-    - 🌱 I’m currently learning: "Advanced Kubernetes techniques, Terraform for infrastructure as code, and Prometheus for monitoring."
-    - 👯 I’m looking to collaborate on: "Open source DevOps tools, SRE best practices, and cloud-native applications."
-    - 🤔 I’m looking for help with: "Optimizing container orchestration and implementing effective disaster recovery strategies."
-    - 💬 Ask me about: "Containerization, continuous integration and delivery, and site reliability engineering."
-    - 📫 How to reach me: "You can reach me via [LinkedIn](https://linkedin.com/in/m-murithi) or [GitHub](https://github.com/m-murithi)."
+- 🔭 I’m currently working on: "Building scalable CI/CD pipelines and improving cloud infrastructure automation."
+- 🌱 I’m currently learning: "Advanced Kubernetes techniques, Terraform for infrastructure as code, and Prometheus for monitoring."
+<!-- 👯 I’m looking to collaborate on: "Open source DevOps tools, SRE best practices, and cloud-native applications." -->
+- 🤔 I’m looking for help with: "Optimizing container orchestration and implementing effective disaster recovery strategies."
+- 💬 Ask me about: "Containerization, continuous integration and delivery, and site reliability engineering."
+- 📫 How to reach me: "You can reach me via [email](mailto:murithimarvin@outlook.com)"
 
 
