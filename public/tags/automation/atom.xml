@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Automation on Marvin Murithi | Site Reliability Engineer</title>
+    <link>http://localhost:1313/tags/automation/</link>
+    <description>Recent content in Automation on Marvin Murithi | Site Reliability Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/automation/atom.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Security and Compliance Automation</title>
+      <link>http://localhost:1313/portfolio/security-and-compliance-automation/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/portfolio/security-and-compliance-automation/</guid>
+      <description>Enhanced the security posture of cloud infrastructure and applications through automated security tools and compliance checks.&#xA;Implemented Automated Security Testing in CI/CD Pipelines Security Testing with OWASP ZAP: Integrated OWASP ZAP into CI/CD pipelines to perform automated security scanning, identifying vulnerabilities during the development process. Static Code Analysis with SonarQube: Utilized SonarQube for static code analysis, ensuring code quality and detecting potential security issues early. Ensured Compliance with Standards such as ISO 27001, SOC 2, and GDPR Automated Compliance Checks: Developed automated compliance checks using Terraform to enforce security and regulatory standards across cloud environments.</description>
+    </item>
+    <item>
+      <title>Continuous Integration/Continuous Deployment (CI/CD) Pipelines</title>
+      <link>http://localhost:1313/portfolio/continuous-integration/continuous-deployment-ci/cd-pipelines/</link>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/portfolio/continuous-integration/continuous-deployment-ci/cd-pipelines/</guid>
+      <description>Developed and maintained robust CI/CD pipelines to streamline the software development process, reduce deployment times, and improve release quality.&#xA;Built CI/CD Pipelines using Jenkins, GitLab CI/CD, and GitHub Actions Jenkins Pipeline for Microservices: Created Jenkins pipelines to build, test, and deploy microservices architecture efficiently. GitLab CI/CD for Kubernetes Deployments: Leveraged GitLab CI/CD to automate deployments to Kubernetes clusters, enhancing scalability and reliability. GitHub Actions for Serverless Deployments: Implemented GitHub Actions workflows to deploy serverless applications seamlessly.</description>
+    </item>
+    <item>
+      <title>Cloud Infrastructure Automation</title>
+      <link>http://localhost:1313/portfolio/cloud-infrastructure-automation/</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0600</pubDate>
+      <guid>http://localhost:1313/portfolio/cloud-infrastructure-automation/</guid>
+      <description>Automated the provisioning and management of cloud infrastructure using Infrastructure as Code (IaC) tools, ensuring consistent and repeatable environments across multiple cloud providers.&#xA;Implemented Multi-Cloud Deployments using Terraform and Pulumi Terraform Scripts for Multi-Cloud Setup: Developed Terraform scripts to deploy infrastructure across AWS, GCP, and Azure, ensuring consistency and scalability. Pulumi Scripts for Multi-Cloud Setup: Utilized Pulumi for more flexible infrastructure management with programming languages like TypeScript and Python. Automated Scaling and Cost Optimization Strategies AWS Auto Scaling Configuration: Configured AWS Auto Scaling groups to handle varying loads, ensuring optimal performance and cost-efficiency.</description>
+    </item>
+  </channel>
+</rss>
