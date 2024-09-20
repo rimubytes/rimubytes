@@ -31,30 +31,16 @@
     </item>
     <item>
       <title>GitHub</title>
-      <link>http://localhost:1313/tags/github/</link>
+      <link>http://localhost:1313/rimubytes/rimubytes/tags/github/</link>
       <pubDate>Mon, 09 Sep 2024 12:34:56 +0000</pubDate>
-      <guid>http://localhost:1313/tags/github/</guid>
+      <guid>http://localhost:1313/rimubytes/rimubytes/tags/github/</guid>
       <description></description>
     </item>
     <item>
       <title>Note Taking</title>
-      <link>http://localhost:1313/tags/note-taking/</link>
+      <link>http://localhost:1313/rimubytes/rimubytes/tags/note-taking/</link>
       <pubDate>Mon, 09 Sep 2024 12:34:56 +0000</pubDate>
-      <guid>http://localhost:1313/tags/note-taking/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Linux Networking</title>
-      <link>http://localhost:1313/tags/linux-networking/</link>
-      <pubDate>Sun, 08 Sep 2024 12:34:56 +0000</pubDate>
-      <guid>http://localhost:1313/tags/linux-networking/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Observability</title>
-      <link>http://localhost:1313/tags/observability/</link>
-      <pubDate>Sun, 08 Sep 2024 12:34:56 +0000</pubDate>
-      <guid>http://localhost:1313/tags/observability/</guid>
+      <guid>http://localhost:1313/rimubytes/rimubytes/tags/note-taking/</guid>
       <description></description>
     </item>
     <item>
@@ -118,27 +104,6 @@
       <link>http://localhost:1313/rimubytes/rimubytes/tags/devops/</link>
       <pubDate>Wed, 12 Jun 2024 00:00:00 +0200</pubDate>
       <guid>http://localhost:1313/rimubytes/rimubytes/tags/devops/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Business</title>
-      <link>http://localhost:1313/rimubytes/rimubytes/tags/business/</link>
-      <pubDate>Sat, 27 Apr 2024 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/rimubytes/rimubytes/tags/business/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cloud Computing</title>
-      <link>http://localhost:1313/rimubytes/rimubytes/tags/cloud-computing/</link>
-      <pubDate>Sat, 27 Apr 2024 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/rimubytes/rimubytes/tags/cloud-computing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Strategy</title>
-      <link>http://localhost:1313/rimubytes/rimubytes/tags/strategy/</link>
-      <pubDate>Sat, 27 Apr 2024 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/rimubytes/rimubytes/tags/strategy/</guid>
       <description></description>
     </item>
     <item>

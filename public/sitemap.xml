@@ -2,16 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/rimubytes/rimubytes/</loc>
-    <lastmod>2024-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/rimubytes/rimubytes/papershelf/</loc>
-    <lastmod>2024-09-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/rimubytes/rimubytes/tags/automation/</loc>
     <lastmod>2024-09-15T00:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/rimubytes/rimubytes/tags/compliance/</loc>
+    <lastmod>2024-09-15T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/rimubytes/rimubytes/</loc>
     <lastmod>2024-09-15T00:00:00+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/rimubytes/rimubytes/portfolio/</loc>
@@ -74,18 +71,6 @@
     <loc>http://localhost:1313/rimubytes/rimubytes/tags/devops/</loc>
     <lastmod>2024-06-12T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/rimubytes/rimubytes/tags/business/</loc>
-    <lastmod>2024-04-27T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/rimubytes/rimubytes/tags/cloud-computing/</loc>
-    <lastmod>2024-04-27T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/rimubytes/rimubytes/papershelf/cloud-strategy/</loc>
-    <lastmod>2024-04-27T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/rimubytes/rimubytes/tags/strategy/</loc>
-    <lastmod>2024-04-27T10:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/rimubytes/rimubytes/tags/alerting/</loc>
     <lastmod>2024-03-04T00:00:00+06:00</lastmod>
   </url><url>
@@ -133,5 +118,7 @@
   </url><url>
     <loc>http://localhost:1313/rimubytes/rimubytes/tags/service-mesh/</loc>
     <lastmod>2023-05-11T00:00:00+11:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/rimubytes/rimubytes/papershelf/</loc>
   </url>
 </urlset>
