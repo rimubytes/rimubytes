@@ -1,14 +1,14 @@
 {
   "version": "https://jsonfeed.org/version/1",
   "title": "Marvin Murithi | Site Reliability Engineer",
-  "home_page_url": "http://localhost:1313/",
-  "feed_url": "http://localhost:1313/feed.json",
+  "home_page_url": "http://localhost:1313/rimubytes/rimubytes/",
+  "feed_url": "http://localhost:1313/rimubytes/rimubytes/feed.json",
   "description": "Software engineer with a thrill for infrastructure",
-  "favicon": "http://localhost:1313//assets/favicon.ico",
+  "favicon": "http://localhost:1313/rimubytes/rimubytes//assets/favicon.ico",
   "expired": false,
   "author": {
     "name": "Marvin Murithi",
-    "url": "http://localhost:1313/"
+    "url": "http://localhost:1313/rimubytes/rimubytes/"
   },
   "items": [
     

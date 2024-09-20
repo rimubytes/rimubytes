@@ -1,4 +1,5 @@
-baseURL = "https://marvinmurithi.netlify.app"
+baseURL = "https://github.com/rimubytes/rimubytes"
+relativeURLs = true
 languageCode = "en-us"
 title = "Marvin Murithi | Site Reliability Engineer"
 paginate = 3

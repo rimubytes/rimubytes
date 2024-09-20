@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Monitoring on Marvin Murithi | Site Reliability Engineer</title>
-    <link>http://localhost:1313/tags/monitoring/</link>
+    <link>http://localhost:1313/rimubytes/rimubytes/tags/monitoring/</link>
     <description>Recent content in Monitoring on Marvin Murithi | Site Reliability Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Mar 2024 00:00:00 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/monitoring/atom.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/rimubytes/rimubytes/tags/monitoring/atom.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Monitoring and Alerting Systems</title>
-      <link>http://localhost:1313/portfolio/monitoring-and-alerting-systems/</link>
+      <link>http://localhost:1313/rimubytes/rimubytes/portfolio/monitoring-and-alerting-systems/</link>
       <pubDate>Mon, 04 Mar 2024 00:00:00 +0600</pubDate>
-      <guid>http://localhost:1313/portfolio/monitoring-and-alerting-systems/</guid>
+      <guid>http://localhost:1313/rimubytes/rimubytes/portfolio/monitoring-and-alerting-systems/</guid>
       <description>Designed and implemented comprehensive monitoring and alerting systems to ensure high availability and quick incident response for critical applications.&#xA;Deployed Monitoring Solutions using Prometheus, Grafana, and ELK Stack Prometheus Monitoring Setup: Configured Prometheus to collect metrics from various services, enabling real-time monitoring of system performance. Grafana Dashboards for Application Metrics: Developed Grafana dashboards to visualize key metrics, providing actionable insights into application health and performance. ELK Stack for Log Analysis: Implemented the ELK Stack (Elasticsearch, Logstash, Kibana) for centralized log management and analysis, facilitating efficient troubleshooting and monitoring.</description>
     </item>
   </channel>
