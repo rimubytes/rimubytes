@@ -7,4 +7,5 @@ description: "Thoughts and insights on Site Reliability Engineering, DevOps, and
 
 Welcome to my blog! Here you'll find articles on Site Reliability Engineering, DevOps, cloud infrastructure, and other related topics.
 
-{{< posts >}}
+<!-- Remove or comment out the posts shortcode -->
+<!-- {{< posts >}} -->
