@@ -1,2 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Puppet on Marvin Murithi | Site Reliability Engineer</title><link>https://marvinmurithi.netlify.app/tags/puppet/</link><description>Recent content in Puppet on Marvin Murithi | Site Reliability Engineer</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0300</lastBuildDate><atom:link href="https://marvinmurithi.netlify.app/tags/puppet/atom.xml" rel="self" type="application/rss+xml"/><item><title>Configuration Management</title><link>https://marvinmurithi.netlify.app/portfolio/configuration-management/</link><pubDate>Mon, 01 Jul 2024 00:00:00 +0300</pubDate><guid>https://marvinmurithi.netlify.app/portfolio/configuration-management/</guid><description>Managed configurations and ensured consistency across environments using configuration management tools.
-Utilized Ansible, Chef, and Puppet for Configuration Management Ansible Playbooks for Server Setup: Developed Ansible playbooks to automate server provisioning, configuration, and application deployment, reducing manual intervention and minimizing errors. Chef Recipes for Application Deployment: Created Chef recipes to manage complex application deployments, ensuring consistency and repeatability across different environments. Puppet Manifests for Infrastructure Configuration: Implemented Puppet manifests to enforce infrastructure configurations, maintaining desired states across all managed nodes.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Puppet on Marvin Murithi | Site Reliability Engineer</title>
+    <link>http://localhost:1313/rimubytes/rimubytes/tags/puppet/</link>
+    <description>Recent content in Puppet on Marvin Murithi | Site Reliability Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/rimubytes/rimubytes/tags/puppet/atom.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Configuration Management</title>
+      <link>http://localhost:1313/rimubytes/rimubytes/portfolio/configuration-management/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0300</pubDate>
+      <guid>http://localhost:1313/rimubytes/rimubytes/portfolio/configuration-management/</guid>
+      <description>Managed configurations and ensured consistency across environments using configuration management tools.&#xA;Utilized Ansible, Chef, and Puppet for Configuration Management Ansible Playbooks for Server Setup: Developed Ansible playbooks to automate server provisioning, configuration, and application deployment, reducing manual intervention and minimizing errors. Chef Recipes for Application Deployment: Created Chef recipes to manage complex application deployments, ensuring consistency and repeatability across different environments. Puppet Manifests for Infrastructure Configuration: Implemented Puppet manifests to enforce infrastructure configurations, maintaining desired states across all managed nodes.</description>
+    </item>
+  </channel>
+</rss>

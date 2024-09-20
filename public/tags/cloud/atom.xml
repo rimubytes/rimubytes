@@ -1,2 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cloud on Marvin Murithi | Site Reliability Engineer</title><link>https://marvinmurithi.netlify.app/tags/cloud/</link><description>Recent content in Cloud on Marvin Murithi | Site Reliability Engineer</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 17 Oct 2023 00:00:00 +0600</lastBuildDate><atom:link href="https://marvinmurithi.netlify.app/tags/cloud/atom.xml" rel="self" type="application/rss+xml"/><item><title>Cloud Infrastructure Automation</title><link>https://marvinmurithi.netlify.app/portfolio/cloud-infrastructure-automation/</link><pubDate>Tue, 17 Oct 2023 00:00:00 +0600</pubDate><guid>https://marvinmurithi.netlify.app/portfolio/cloud-infrastructure-automation/</guid><description>Automated the provisioning and management of cloud infrastructure using Infrastructure as Code (IaC) tools, ensuring consistent and repeatable environments across multiple cloud providers.
-Implemented Multi-Cloud Deployments using Terraform and Pulumi Terraform Scripts for Multi-Cloud Setup: Developed Terraform scripts to deploy infrastructure across AWS, GCP, and Azure, ensuring consistency and scalability. Pulumi Scripts for Multi-Cloud Setup: Utilized Pulumi for more flexible infrastructure management with programming languages like TypeScript and Python. Automated Scaling and Cost Optimization Strategies AWS Auto Scaling Configuration: Configured AWS Auto Scaling groups to handle varying loads, ensuring optimal performance and cost-efficiency.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud on Marvin Murithi | Site Reliability Engineer</title>
+    <link>http://localhost:1313/rimubytes/rimubytes/tags/cloud/</link>
+    <description>Recent content in Cloud on Marvin Murithi | Site Reliability Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Oct 2023 00:00:00 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/rimubytes/rimubytes/tags/cloud/atom.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cloud Infrastructure Automation</title>
+      <link>http://localhost:1313/rimubytes/rimubytes/portfolio/cloud-infrastructure-automation/</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0600</pubDate>
+      <guid>http://localhost:1313/rimubytes/rimubytes/portfolio/cloud-infrastructure-automation/</guid>
+      <description>Automated the provisioning and management of cloud infrastructure using Infrastructure as Code (IaC) tools, ensuring consistent and repeatable environments across multiple cloud providers.&#xA;Implemented Multi-Cloud Deployments using Terraform and Pulumi Terraform Scripts for Multi-Cloud Setup: Developed Terraform scripts to deploy infrastructure across AWS, GCP, and Azure, ensuring consistency and scalability. Pulumi Scripts for Multi-Cloud Setup: Utilized Pulumi for more flexible infrastructure management with programming languages like TypeScript and Python. Automated Scaling and Cost Optimization Strategies AWS Auto Scaling Configuration: Configured AWS Auto Scaling groups to handle varying loads, ensuring optimal performance and cost-efficiency.</description>
+    </item>
+  </channel>
+</rss>

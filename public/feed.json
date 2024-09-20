@@ -1,1 +1,19 @@
-{"version":"https://jsonfeed.org/version/1","title":"Marvin Murithi | Site Reliability Engineer","home_page_url":"https://marvinmurithi.netlify.app/","feed_url":"https://marvinmurithi.netlify.app/feed.json","description":"Software engineer with a thrill for infrastructure","favicon":"https://marvinmurithi.netlify.app//assets/favicon.ico","expired":false,"author":{"name":"Marvin Murithi","url":"https://marvinmurithi.netlify.app/"},"items":[]}
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Marvin Murithi | Site Reliability Engineer",
+  "home_page_url": "http://localhost:1313/rimubytes/rimubytes/",
+  "feed_url": "http://localhost:1313/rimubytes/rimubytes/feed.json",
+  "description": "Software engineer with a thrill for infrastructure",
+  "favicon": "http://localhost:1313/rimubytes/rimubytes//assets/favicon.ico",
+  "expired": false,
+  "author": {
+    "name": "Marvin Murithi",
+    "url": "http://localhost:1313/rimubytes/rimubytes/"
+  },
+  "items": [
+    
+    
+
+    
+  ]
+}
