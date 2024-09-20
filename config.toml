@@ -1,4 +1,4 @@
-baseURL = "https://github.com/rimubytes/rimubytes"
+baseURL = "https://marvin.dev"
 relativeURLs = true
 languageCode = "en-us"
 title = "Marvin Murithi | Site Reliability Engineer"
@@ -43,9 +43,9 @@ theme = "maverick"
     weight = 2
 
   [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/blog/"
+    identifier = "blogs"
+    name = "Blogs"
+    url = "/blogs/"
     weight = 3
 
   [[menu.main]]
