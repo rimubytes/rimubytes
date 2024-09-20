@@ -1,0 +1,53 @@
+baseURL = "https://marvin.dev"
+languageCode = "en-us"
+title = "Marvin Murithi"
+theme = "maverick"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+footnotereturnlinkcontents = "↩"
+pluralizeListTitles = false
+enableGitInfo = true
+enableRobotsTXT = true
+paginate = 10
+
+[params]
+  description = "Software engineer who prefers the thrills of infrastructure."
+  meta = "Marvin Murithi | Site Reliability Engineer"
+  author = "Marvin Murithi"
+  authorTitle = "Site Reliability Engineer"
+  numberOfPostsInHomePage = 2
+  lastUpdated = "September 20th, 2024
+
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "portfolio"
+    name = "Portfolio"
+    url = "/portfolio/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "shelf"
+    name = "Shelf"
+    url = "/shelf/"
+    weight = 4
+
+[permalinks]
+  blog = "/blog/:year/:month/:title/"
+  portfolio = "/portfolio/:slug/"
+
+[markup]
+  [markup.highlight]
+    style = "monokai"
+
