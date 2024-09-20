@@ -38,15 +38,6 @@
     <loc>http://localhost:1313/rimubytes/rimubytes/tags/note-taking/</loc>
     <lastmod>2024-09-09T12:34:56+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/rimubytes/rimubytes/tags/linux-networking/</loc>
-    <lastmod>2024-09-08T12:34:56+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/rimubytes/rimubytes/tags/observability/</loc>
-    <lastmod>2024-09-08T12:34:56+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/rimubytes/rimubytes/blogs/linux-networking/</loc>
-    <lastmod>2024-09-08T12:34:56+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/rimubytes/rimubytes/tags/optimization/</loc>
     <lastmod>2024-08-25T00:00:00+01:00</lastmod>
   </url><url>
@@ -142,7 +133,5 @@
   </url><url>
     <loc>http://localhost:1313/rimubytes/rimubytes/tags/service-mesh/</loc>
     <lastmod>2023-05-11T00:00:00+11:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/rimubytes/rimubytes/blog/</loc>
   </url>
 </urlset>
