@@ -1,7 +1,7 @@
 ---
 title: "Understanding Linux Networking: Insights from Performance Observability Tools"
 date: 2024-09-08T12:34:56Z
-description: "A brief summary of the blog post."
+description: "Linux networking from observability pov"
 tags: ["Linux Networking", "Observability"]
 categories: ["Linux"]
 featured_image: "/images/blog/your-image.jpg"
