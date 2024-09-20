@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Observability on Marvin Murithi | Site Reliability Engineer</title>
+    <link>http://localhost:1313/tags/observability/</link>
+    <description>Recent content in Observability on Marvin Murithi | Site Reliability Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Sep 2024 09:45:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/observability/atom.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding Linux Networking: Insights from Performance Observability Tools</title>
+      <link>http://localhost:1313/blogs/linux-networking/</link>
+      <pubDate>Sun, 08 Sep 2024 09:45:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/linux-networking/</guid>
+      <description>Linux is a powerful operating system, and its networking capabilities are core to running server applications, hosting services and ensuring reliable communication. Observability within the Linux networking domain is vital for troubleshooting, performance optimization and system monitoring. This post explores the essential tools available for Linux networking through the lens of the observability tools framework.&#xA;Layers of Linux Networking Linux networking is complex, involving multiple layers in the OS stack. From user applications to device drivers, each layer has specific tools that allow you to monitor, trace and optimize performance.</description>
+    </item>
+  </channel>
+</rss>

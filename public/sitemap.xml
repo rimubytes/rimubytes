@@ -23,6 +23,30 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-09-15T00:00:00+08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/blogs/</loc>
+    <lastmod>2024-09-09T12:34:56+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/github/</loc>
+    <lastmod>2024-09-09T12:34:56+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogs/second-brain/</loc>
+    <lastmod>2024-09-09T12:34:56+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/note-taking/</loc>
+    <lastmod>2024-09-09T12:34:56+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/linux-network-stack/</loc>
+    <lastmod>2024-09-08T09:45:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/monitoring/</loc>
+    <lastmod>2024-09-08T09:45:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/observability/</loc>
+    <lastmod>2024-09-08T09:45:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blogs/linux-networking/</loc>
+    <lastmod>2024-09-08T09:45:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/optimization/</loc>
     <lastmod>2024-08-25T00:00:00+01:00</lastmod>
   </url><url>
@@ -60,9 +84,6 @@
     <lastmod>2024-06-12T00:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/alerting/</loc>
-    <lastmod>2024-03-04T00:00:00+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/monitoring/</loc>
     <lastmod>2024-03-04T00:00:00+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/portfolio/monitoring-and-alerting-systems/</loc>
