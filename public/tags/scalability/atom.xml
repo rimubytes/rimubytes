@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scalability on Marvin Murithi | Site Reliability Engineer</title>
+    <link>http://localhost:1313/tags/scalability/</link>
+    <description>Recent content in Scalability on Marvin Murithi | Site Reliability Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/scalability/atom.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Performance Optimization and Scalability</title>
+      <link>http://localhost:1313/portfolio/performance-optimization-and-scalability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/performance-optimization-and-scalability/</guid>
+      <description>Optimized the performance and scalability of applications to handle increasing loads and ensure smooth user experiences.&#xA;Conducted Performance Tuning and Load Testing Load Testing with JMeter: Utilized Apache JMeter to perform load testing, identifying bottlenecks and ensuring applications can handle high traffic volumes. Performance Tuning Best Practices: Implemented best practices for performance tuning, including database indexing, query optimization, and efficient resource utilization. Implemented Caching Strategies and Database Optimizations Redis Caching Setup: Configured Redis as a caching layer to reduce database load and improve response times for frequently accessed data.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,5 +1,6 @@
 ---
 title: "Disaster Recovery and High Availability"
+date: "2023-09-20T00:00:00+0100"
 description: "Designed and implemented disaster recovery plans and high availability architectures to minimize downtime and data loss."
 tags: ["Disaster Recovery", "High Availability", "SRE"]
 categories: ["Infrastructure", "Reliability"]
@@ -7,8 +8,6 @@ featured_image: "/images/portfolio/disaster-recovery-and-high-availability.jpg"
 layout: "portfolio"
 draft: false
 ---
-
-## Disaster Recovery and High Availability
 
 Designed and implemented disaster recovery plans and high availability architectures to minimize downtime and data loss.
 

@@ -1,5 +1,6 @@
 ---
 title: "Performance Optimization and Scalability"
+date: "2024-08-25T00:00:00+0100"
 description: "Optimized the performance and scalability of applications to handle increasing loads and ensure smooth user experiences."
 tags: ["Performance", "Scalability", "Optimization"]
 categories: ["Infrastructure", "Performance"]
@@ -7,8 +8,6 @@ featured_image: "/images/portfolio/performance-optimization-and-scalability.jpg"
 layout: "portfolio"
 draft: false
 ---
-
-## Performance Optimization and Scalability
 
 Optimized the performance and scalability of applications to handle increasing loads and ensure smooth user experiences.
 

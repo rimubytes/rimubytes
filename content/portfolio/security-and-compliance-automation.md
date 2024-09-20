@@ -1,5 +1,6 @@
 ---
 title: "Security and Compliance Automation"
+date: "2024-09-15T00:00:00+0800"
 description: "Enhanced the security posture of cloud infrastructure and applications through automated security tools and compliance checks."
 tags: ["Security", "Compliance", "Automation"]
 categories: ["Security", "Infrastructure"]
@@ -7,8 +8,6 @@ featured_image: "/images/portfolio/security-and-compliance-automation.jpg"
 layout: "portfolio"
 draft: false
 ---
-
-## Security and Compliance Automation
 
 Enhanced the security posture of cloud infrastructure and applications through automated security tools and compliance checks.
 

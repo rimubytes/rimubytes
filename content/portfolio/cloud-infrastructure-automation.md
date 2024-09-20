@@ -1,9 +1,13 @@
 ---
 title: "Cloud Infrastructure Automation"
+date: "2023-10-17T00:00:00+0600"
 description: "Automated provisioning and management of cloud infrastructure using IaC tools."
+tags: ["Cloud", "IaC", "Automation"]
+categories: ["Cloud", "Automation"]
+featured_image: "/images/portfolio/cloud-infrastructure.jpg"
+layout: "portfolio"
+draft: false
 ---
-
-## Cloud Infrastructure Automation
 
 Automated the provisioning and management of cloud infrastructure using Infrastructure as Code (IaC) tools, ensuring consistent and repeatable environments across multiple cloud providers.
 

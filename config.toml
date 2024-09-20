@@ -1,21 +1,32 @@
-baseURL = "https://marvin.dev"
+baseURL = "https://www.yourdomain.com/"
 languageCode = "en-us"
-title = "Marvin Murithi"
+title = "Marvin Murithi | Site Reliability Engineer"
+paginate = 3
 theme = "maverick"
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-footnotereturnlinkcontents = "↩"
-pluralizeListTitles = false
-enableGitInfo = true
-enableRobotsTXT = true
-paginate = 10
+
+[permalinks]
+  blog = "/blog/:year/:month/:title/"
+  portfolio = "/portfolio/:slug/"
 
 [params]
-  description = "Software engineer who prefers the thrills of infrastructure."
-  meta = "Marvin Murithi | Site Reliability Engineer"
+  logo = "/assets/favicon.ico"
+  description = "Software engineer with a thrill for infrastructure"
   author = "Marvin Murithi"
-  authorTitle = "Site Reliability Engineer"
-  numberOfPostsInHomePage = 2
-  lastUpdated = "September 20th, 2024"
+
+  [params.comments]
+    enabled = true
+    githubRepo = "yourusername/yourrepo"
+    theme = "github-light"
+
+  # Footer Rights
+  footerRights = "© 2024 Marvin Murithi. All rights reserved."
+
+  # Social Links
+  socialLinks = [
+    { name = "LinkedIn", url = "https://www.linkedin.com/in/marvin-m-249088179/", icon = "linkedin" },
+    { name = "GitHub", url = "https://github.com/rimubytes", icon = "github" },
+    { name = "Email", url = "mailto:murithimarvin09@gmail.com", icon = "envelope" }
+  ]
 
 [menu]
   [[menu.main]]
@@ -37,16 +48,42 @@ paginate = 10
     weight = 3
 
   [[menu.main]]
-    identifier = "shelf"
-    name = "Shelf"
-    url = "/shelf/"
+    identifier = "papershelf"
+    name = "Papershelf"
+    url = "/papershelf/"
     weight = 4
-
-[permalinks]
-  blog = "/blog/:year/:month/:title/"
-  portfolio = "/portfolio/:slug/"
-
+    
 [markup]
+  [markup.goldmark.renderer]
+    unsafe = true
   [markup.highlight]
-    style = "monokai"
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    hl_inline = false
+    lineAnchors = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    noHl = false
+    style = "monokailight"
+    tabWidth = 4
 
+[taxonomies]
+  tag = "tags"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML"]
+
+[outputFormats.RSS]
+  mediatype = "application/rss"
+  baseName = "atom"
+
+[outputFormats.JSON]
+  mediatype = "application/json"
+  baseName = "feed"
+
+ignoreErrors = ["error-remote-getjson"]

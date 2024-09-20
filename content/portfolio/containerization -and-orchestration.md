@@ -1,5 +1,6 @@
 ---
 title: "Containerization and Orchestration"
+date: "2023-05-11T00:00:00+1100"
 description: "Adopted containerization and orchestration technologies to improve application deployment and management."
 tags: ["Containerization", "Orchestration", "Docker", "Kubernetes", "Service Mesh"]
 categories: ["Infrastructure", "DevOps"]
@@ -7,8 +8,6 @@ featured_image: "/images/portfolio/containerization-and-orchestration.jpg"
 layout: "portfolio"
 draft: false
 ---
-
-## Containerization and Orchestration
 
 Adopted containerization and orchestration technologies to improve application deployment and management.
 

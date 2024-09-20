@@ -3,13 +3,11 @@ title: "Marvin Murithi"
 description: "Site Reliability Engineer specializing in building resilient systems, ensuring uptime, and driving efficiency through automation and monitoring."
 ---
 
-## About Me
+### Hey there 👋
 
-I'm Marvin Murithi, a Software Engineer with a thrill for infrastructure. I specialize in building resilient systems, ensuring uptime, and driving efficiency through automation and monitoring. My expertise lies in applying SRE principles to manage and improve production systems while enhancing performance and reliability.
+I'm Marvin, a software engineer with a thrill for infrastructure. I specialize in building resilient systems, ensuring uptime, and driving efficiency through automation and monitoring. My expertise lies in applying SRE principles to manage and improve production systems while enhancing performance and reliability.
 
-With a strong background in DevOps, I bridge the gap between development and operations, focusing on creating scalable infrastructure, automating complex tasks, and preventing outages. From Kubernetes orchestration to Root Cause Analysis (RCA), I’m driven by a commitment to operational excellence.
-
-## What I Do
+I bridge the gap between development and operations, focusing on creating scalable infrastructure, automating complex tasks, and preventing outages. From Kubernetes orchestration to Root Cause Analysis , I’m driven by a commitment to operational excellence.
 
 As a Site Reliability Engineer, I focus on:
 
@@ -22,3 +20,10 @@ As a Site Reliability Engineer, I focus on:
 - **Monitoring & Observability:** Building comprehensive monitoring and alerting systems using Prometheus, Grafana, and ELK Stack to ensure full observability across all environments.
 
 - **Scalability:** Optimizing and automating infrastructure scaling to handle fluctuating workloads without compromising performance.
+
+#### On the Web 🌐
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/marvin-m-249088179/)
+- 🐙 [GitHub](https://github.com/rimubytes)
+- 📧 [Email](mailto:murithimarvin09@gmail.com)
+- 🐦 [X (Twitter)](https://x.com/m_marv)

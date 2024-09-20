@@ -1,5 +1,6 @@
 ---
 title: "Continuous Integration/Continuous Deployment (CI/CD) Pipelines"
+date: "2024-06-12T00:00:00+0200"
 description: "Developed and maintained robust CI/CD pipelines to streamline the software development process, reduce deployment times, and improve release quality."
 tags: ["CI/CD", "DevOps", "Automation"]
 categories: ["Infrastructure", "Automation"]
@@ -7,8 +8,6 @@ featured_image: "/images/portfolio/ci-cd-pipelines.jpg"
 layout: "portfolio"
 draft: false
 ---
-
-## Continuous Integration/Continuous Deployment (CI/CD) Pipelines
 
 Developed and maintained robust CI/CD pipelines to streamline the software development process, reduce deployment times, and improve release quality.
 

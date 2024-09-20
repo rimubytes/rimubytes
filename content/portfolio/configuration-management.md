@@ -1,5 +1,6 @@
 ---
 title: "Configuration Management"
+date: "2024-07-01T00:00:00+0300"
 description: "Managed configurations and ensured consistency across environments using configuration management tools."
 tags: ["Configuration Management", "Ansible", "Chef", "Puppet"]
 categories: ["Infrastructure", "Automation"]
@@ -7,8 +8,6 @@ featured_image: "/images/portfolio/configuration-management.jpg"
 layout: "portfolio"
 draft: false
 ---
-
-## Configuration Management
 
 Managed configurations and ensured consistency across environments using configuration management tools.
 

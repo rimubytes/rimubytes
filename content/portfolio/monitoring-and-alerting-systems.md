@@ -1,5 +1,6 @@
 ---
 title: "Monitoring and Alerting Systems"
+date: "2024-03-04T00:00:00+0600"
 description: "Designed and implemented comprehensive monitoring and alerting systems to ensure high availability and quick incident response for critical applications."
 tags: ["Monitoring", "Alerting", "SRE"]
 categories: ["Infrastructure", "Observability"]
@@ -7,8 +8,6 @@ featured_image: "/images/portfolio/monitoring-and-alerting-systems.jpg"
 layout: "portfolio"
 draft: false
 ---
-
-## Monitoring and Alerting Systems
 
 Designed and implemented comprehensive monitoring and alerting systems to ensure high availability and quick incident response for critical applications.
 

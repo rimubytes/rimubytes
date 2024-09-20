@@ -1,5 +1,5 @@
 ---
-title: "Shelf"
+title: "PaperShelf"
 description: "Books I'm currently reading and recommend."
 ---
 
