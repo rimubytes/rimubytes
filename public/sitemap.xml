@@ -2,6 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/automation/</loc>
+    <lastmod>2024-09-15T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/compliance/</loc>
+    <lastmod>2024-09-15T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-09-15T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/</loc>
+    <lastmod>2024-09-15T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/security/</loc>
+    <lastmod>2024-09-15T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/security-and-compliance-automation/</loc>
+    <lastmod>2024-09-15T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-09-15T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2024-09-08T12:34:56+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/linux-networking/</loc>
+    <lastmod>2024-09-08T12:34:56+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/observability/</loc>
+    <lastmod>2024-09-08T12:34:56+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2024/09/understanding-linux-networking-insights-from-performance-observability-tools/</loc>
+    <lastmod>2024-09-08T12:34:56+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/optimization/</loc>
+    <lastmod>2024-08-25T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/performance/</loc>
+    <lastmod>2024-08-25T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/performance-optimization-and-scalability/</loc>
+    <lastmod>2024-08-25T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/scalability/</loc>
+    <lastmod>2024-08-25T00:00:00+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/ansible/</loc>
     <lastmod>2024-07-01T00:00:00+03:00</lastmod>
   </url><url>
@@ -14,20 +59,8 @@
     <loc>http://localhost:1313/portfolio/configuration-management/</loc>
     <lastmod>2024-07-01T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-07-01T00:00:00+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/portfolio/</loc>
-    <lastmod>2024-07-01T00:00:00+03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/puppet/</loc>
     <lastmod>2024-07-01T00:00:00+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-07-01T00:00:00+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/automation/</loc>
-    <lastmod>2024-06-12T00:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ci/cd/</loc>
     <lastmod>2024-06-12T00:00:00+02:00</lastmod>
@@ -38,8 +71,35 @@
     <loc>http://localhost:1313/tags/devops/</loc>
     <lastmod>2024-06-12T00:00:00+02:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/alerting/</loc>
+    <lastmod>2024-03-04T00:00:00+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/monitoring/</loc>
+    <lastmod>2024-03-04T00:00:00+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/monitoring-and-alerting-systems/</loc>
+    <lastmod>2024-03-04T00:00:00+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sre/</loc>
+    <lastmod>2024-03-04T00:00:00+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cloud/</loc>
+    <lastmod>2023-10-17T00:00:00+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/portfolio/cloud-infrastructure-automation/</loc>
     <lastmod>2023-10-17T00:00:00+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/iac/</loc>
+    <lastmod>2023-10-17T00:00:00+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/disaster-recovery/</loc>
+    <lastmod>2023-09-20T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/disaster-recovery-and-high-availability/</loc>
+    <lastmod>2023-09-20T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/high-availability/</loc>
+    <lastmod>2023-09-20T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/containerization/</loc>
     <lastmod>2023-05-11T00:00:00+11:00</lastmod>
@@ -59,36 +119,6 @@
     <loc>http://localhost:1313/tags/service-mesh/</loc>
     <lastmod>2023-05-11T00:00:00+11:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/alerting/</loc>
-  </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/compliance/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/disaster-recovery/</loc>
-  </url><url>
-    <loc>http://localhost:1313/portfolio/disaster-recovery-and-high-availability/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/high-availability/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/monitoring/</loc>
-  </url><url>
-    <loc>http://localhost:1313/portfolio/monitoring-and-alerting-systems/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/optimization/</loc>
-  </url><url>
     <loc>http://localhost:1313/papershelf/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/performance/</loc>
-  </url><url>
-    <loc>http://localhost:1313/portfolio/performance-optimization-and-scalability/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/scalability/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/security/</loc>
-  </url><url>
-    <loc>http://localhost:1313/portfolio/security-and-compliance-automation/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/sre/</loc>
   </url>
 </urlset>

@@ -6,8 +6,64 @@
     <description>Recent content in Tags on Marvin Murithi | Site Reliability Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/atom.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automation</title>
+      <link>http://localhost:1313/tags/automation/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/automation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Compliance</title>
+      <link>http://localhost:1313/tags/compliance/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/compliance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Security</title>
+      <link>http://localhost:1313/tags/security/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux Networking</title>
+      <link>http://localhost:1313/tags/linux-networking/</link>
+      <pubDate>Sun, 08 Sep 2024 12:34:56 +0000</pubDate>
+      <guid>http://localhost:1313/tags/linux-networking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Observability</title>
+      <link>http://localhost:1313/tags/observability/</link>
+      <pubDate>Sun, 08 Sep 2024 12:34:56 +0000</pubDate>
+      <guid>http://localhost:1313/tags/observability/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Optimization</title>
+      <link>http://localhost:1313/tags/optimization/</link>
+      <pubDate>Sun, 25 Aug 2024 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/tags/optimization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Performance</title>
+      <link>http://localhost:1313/tags/performance/</link>
+      <pubDate>Sun, 25 Aug 2024 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/tags/performance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scalability</title>
+      <link>http://localhost:1313/tags/scalability/</link>
+      <pubDate>Sun, 25 Aug 2024 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/tags/scalability/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Ansible</title>
       <link>http://localhost:1313/tags/ansible/</link>
@@ -37,13 +93,6 @@
       <description></description>
     </item>
     <item>
-      <title>Automation</title>
-      <link>http://localhost:1313/tags/automation/</link>
-      <pubDate>Wed, 12 Jun 2024 00:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/tags/automation/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>CI/CD</title>
       <link>http://localhost:1313/tags/ci/cd/</link>
       <pubDate>Wed, 12 Jun 2024 00:00:00 +0200</pubDate>
@@ -55,6 +104,55 @@
       <link>http://localhost:1313/tags/devops/</link>
       <pubDate>Wed, 12 Jun 2024 00:00:00 +0200</pubDate>
       <guid>http://localhost:1313/tags/devops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Alerting</title>
+      <link>http://localhost:1313/tags/alerting/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0600</pubDate>
+      <guid>http://localhost:1313/tags/alerting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Monitoring</title>
+      <link>http://localhost:1313/tags/monitoring/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0600</pubDate>
+      <guid>http://localhost:1313/tags/monitoring/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SRE</title>
+      <link>http://localhost:1313/tags/sre/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0600</pubDate>
+      <guid>http://localhost:1313/tags/sre/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cloud</title>
+      <link>http://localhost:1313/tags/cloud/</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0600</pubDate>
+      <guid>http://localhost:1313/tags/cloud/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IaC</title>
+      <link>http://localhost:1313/tags/iac/</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0600</pubDate>
+      <guid>http://localhost:1313/tags/iac/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Disaster Recovery</title>
+      <link>http://localhost:1313/tags/disaster-recovery/</link>
+      <pubDate>Wed, 20 Sep 2023 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/tags/disaster-recovery/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>High Availability</title>
+      <link>http://localhost:1313/tags/high-availability/</link>
+      <pubDate>Wed, 20 Sep 2023 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/tags/high-availability/</guid>
       <description></description>
     </item>
     <item>
@@ -90,76 +188,6 @@
       <link>http://localhost:1313/tags/service-mesh/</link>
       <pubDate>Thu, 11 May 2023 00:00:00 +1100</pubDate>
       <guid>http://localhost:1313/tags/service-mesh/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Alerting</title>
-      <link>http://localhost:1313/tags/alerting/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/alerting/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Compliance</title>
-      <link>http://localhost:1313/tags/compliance/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/compliance/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Disaster Recovery</title>
-      <link>http://localhost:1313/tags/disaster-recovery/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/disaster-recovery/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>High Availability</title>
-      <link>http://localhost:1313/tags/high-availability/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/high-availability/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Monitoring</title>
-      <link>http://localhost:1313/tags/monitoring/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/monitoring/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Optimization</title>
-      <link>http://localhost:1313/tags/optimization/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/optimization/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Performance</title>
-      <link>http://localhost:1313/tags/performance/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/performance/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Scalability</title>
-      <link>http://localhost:1313/tags/scalability/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/scalability/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Security</title>
-      <link>http://localhost:1313/tags/security/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/security/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>SRE</title>
-      <link>http://localhost:1313/tags/sre/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/sre/</guid>
       <description></description>
     </item>
   </channel>

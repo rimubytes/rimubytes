@@ -42,9 +42,9 @@ theme = "maverick"
     weight = 2
 
   [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/blog/"
+    identifier = "blogs"
+    name = "Blogs"
+    url = "/blogs/"
     weight = 3
 
   [[menu.main]]
