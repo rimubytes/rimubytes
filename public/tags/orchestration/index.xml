@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Orchestration on Marvin Murithi</title>
+    <link>http://localhost:1313/tags/orchestration/</link>
+    <description>Recent content in Orchestration on Marvin Murithi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/orchestration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Containerization and Orchestration</title>
+      <link>http://localhost:1313/portfolio/containerization-and-orchestration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/containerization-and-orchestration/</guid>
+      <description>Containerization and Orchestration Adopted containerization and orchestration technologies to improve application deployment and management.&#xA;Deployed Containerized Applications using Docker and Kubernetes Docker Compose for Microservices: Utilized Docker Compose to manage multi-container Docker applications, simplifying development and testing environments. Kubernetes Cluster Setup: Configured and deployed Kubernetes clusters to orchestrate containerized applications, ensuring scalability, reliability, and efficient resource utilization. Implemented Service Mesh for Microservices Management Istio Service Mesh Setup: Implemented Istio to manage microservices communication, providing traffic management, security, and observability features.</description>
+    </item>
+  </channel>
+</rss>
