@@ -1,19 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Note Taking on Marvin Murithi | Site Reliability Engineer</title>
-    <link>http://localhost:1313/tags/note-taking/</link>
-    <description>Recent content in Note Taking on Marvin Murithi | Site Reliability Engineer</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 09 Sep 2024 12:34:56 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/note-taking/atom.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>GitHub as a Second Brain</title>
-      <link>http://localhost:1313/blogs/second-brain/</link>
-      <pubDate>Mon, 09 Sep 2024 12:34:56 +0000</pubDate>
-      <guid>http://localhost:1313/blogs/second-brain/</guid>
-      <description>It all started while I was browsing through a repository on GitHub. I was looking at the meticulous organization of code, the way every change was tracked, and how different collaborators worked seamlessly together. I couldn&amp;rsquo;t help but draw some similarities with tools like notion and obsidian, which were great for note-taking and knowledge implementation.&#xA;In the age of information overload, managing knowledge effectively is crucial for productivity and personal growth.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Note Taking on Marvin Murithi | Site Reliability Engineer</title><link>https://marvinmurithi.netlify.app/tags/note-taking/</link><description>Recent content in Note Taking on Marvin Murithi | Site Reliability Engineer</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 09 Sep 2024 12:34:56 +0000</lastBuildDate><atom:link href="https://marvinmurithi.netlify.app/tags/note-taking/atom.xml" rel="self" type="application/rss+xml"/><item><title>GitHub as a Second Brain</title><link>https://marvinmurithi.netlify.app/blogs/second-brain/</link><pubDate>Mon, 09 Sep 2024 12:34:56 +0000</pubDate><guid>https://marvinmurithi.netlify.app/blogs/second-brain/</guid><description>It all started while I was browsing through a repository on GitHub. I was looking at the meticulous organization of code, the way every change was tracked, and how different collaborators worked seamlessly together. I couldn&amp;rsquo;t help but draw some similarities with tools like notion and obsidian, which were great for note-taking and knowledge implementation.
+In the age of information overload, managing knowledge effectively is crucial for productivity and personal growth.</description></item></channel></rss>

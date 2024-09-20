@@ -1,19 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Security on Marvin Murithi | Site Reliability Engineer</title>
-    <link>http://localhost:1313/tags/security/</link>
-    <description>Recent content in Security on Marvin Murithi | Site Reliability Engineer</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/security/atom.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Security and Compliance Automation</title>
-      <link>http://localhost:1313/portfolio/security-and-compliance-automation/</link>
-      <pubDate>Sun, 15 Sep 2024 00:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/portfolio/security-and-compliance-automation/</guid>
-      <description>Enhanced the security posture of cloud infrastructure and applications through automated security tools and compliance checks.&#xA;Implemented Automated Security Testing in CI/CD Pipelines Security Testing with OWASP ZAP: Integrated OWASP ZAP into CI/CD pipelines to perform automated security scanning, identifying vulnerabilities during the development process. Static Code Analysis with SonarQube: Utilized SonarQube for static code analysis, ensuring code quality and detecting potential security issues early. Ensured Compliance with Standards such as ISO 27001, SOC 2, and GDPR Automated Compliance Checks: Developed automated compliance checks using Terraform to enforce security and regulatory standards across cloud environments.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Security on Marvin Murithi | Site Reliability Engineer</title><link>https://marvinmurithi.netlify.app/tags/security/</link><description>Recent content in Security on Marvin Murithi | Site Reliability Engineer</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 15 Sep 2024 00:00:00 +0800</lastBuildDate><atom:link href="https://marvinmurithi.netlify.app/tags/security/atom.xml" rel="self" type="application/rss+xml"/><item><title>Security and Compliance Automation</title><link>https://marvinmurithi.netlify.app/portfolio/security-and-compliance-automation/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0800</pubDate><guid>https://marvinmurithi.netlify.app/portfolio/security-and-compliance-automation/</guid><description>Enhanced the security posture of cloud infrastructure and applications through automated security tools and compliance checks.
+Implemented Automated Security Testing in CI/CD Pipelines Security Testing with OWASP ZAP: Integrated OWASP ZAP into CI/CD pipelines to perform automated security scanning, identifying vulnerabilities during the development process. Static Code Analysis with SonarQube: Utilized SonarQube for static code analysis, ensuring code quality and detecting potential security issues early. Ensured Compliance with Standards such as ISO 27001, SOC 2, and GDPR Automated Compliance Checks: Developed automated compliance checks using Terraform to enforce security and regulatory standards across cloud environments.</description></item></channel></rss>
