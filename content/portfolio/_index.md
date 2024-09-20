@@ -3,9 +3,8 @@ title: "Portfolio"
 description: "A selection of key projects and contributions"
 ---
 
-## Portfolio: Architecting the Digital Frontier
+## Portfolio
 
-My journey in the realm of technology is a testament to the art of building digital ecosystems that thrive in the face of complexity and scale.
-This portfolio is not just a collection of projects; it's a narrative of innovation, problem-solving, and technological advancement. Each endeavor represents a unique challenge conquered, a system optimized, or a process revolutionized, from automating sprawling cloud infrastructures to orchestrating seamless deployment pipelines
+Below is a curated selection of my work, focused on high-traffic web services and enterprise applications.
 
-### Featured projects:
+### Projects

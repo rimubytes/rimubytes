@@ -1,26 +1,14 @@
 ---
-title: "Reading List"
-description: "A curated collection of books and papers that have influenced my journey in Site Reliability Engineering and Software Development."
-date: 2024-09-19
-layout: "reading" # Optional: Specify a custom layout if needed
+title: "PaperShelf"
+description: "Books I'm currently reading and recommend."
 ---
 
-## Continuous Learning & Tech Enthusiasim
+## Reading List
 
-As a passionate technologist, I believe in the power of continuous learning to stay at the forefront of our rapidly evolving industry. My curiosity drives me to explore the latest trends, breakthrough research, and innovative solutions shaping the tech landscape.
+Here are some of the books I'm currently reading or recommend:
 
-### Reading List Highlights
+## Currently Reading
 
-I regularly immerse myself in a variety of tech-related literature, including:
-
-- Books: From foundational computer science texts to cutting-edge explorations of emerging technologies.
-- Academic Papers: Keeping abreast of the latest research in areas like distributed systems, machine learning, and software architecture.
-- Tech Blogs & Articles: Following thought leaders and industry experts to gain insights into real-world applications and challenges.
-
-### Areas of Interest
-
-My reading spans a wide range of topics, with particular focus on:
-
-- Scalable System Design
-- Distributed Systems and Cloud Computing
-- DevOps and Site Reliability Engineering
+- **"Cloud Strategy"** by Gregor Hohpe
+- **"Network Automation with Go"** by Nicolas Leiva and Micheal Kashin
+- **"37 Things One Architect About IT Transformation"** by Gregor Hohpe
