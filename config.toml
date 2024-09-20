@@ -15,8 +15,7 @@ paginate = 10
   author = "Marvin Murithi"
   authorTitle = "Site Reliability Engineer"
   numberOfPostsInHomePage = 2
-  lastUpdated = "September 20th, 2024
-
+  lastUpdated = "September 20th, 2024"
 
 [menu]
   [[menu.main]]
