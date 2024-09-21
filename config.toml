@@ -44,12 +44,12 @@ canonifyHREF = false
 
   [[menu.main]]
     name = "Portfolio"
-    url = "/portfolio/"
+    url = "portfolio/"
     weight = 2
 
   [[menu.main]]
     name = "Blogs"
-    url = "/blogs/"
+    url = "blogs/"
     weight = 3
 
   [[menu.main]]
