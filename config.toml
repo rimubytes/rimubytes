@@ -5,6 +5,11 @@ title = "Marvin Murithi | Site Reliability Engineer"
 paginate = 3
 theme = "maverick"
 
+# Disable canonify URLs to maintain relative linking
+canonifyURLs = false
+canonifyHREF = false
+
+
 [permalinks]
   blog = "/blog/:year/:month/:title/"
   portfolio = "/portfolio/:slug/"
@@ -13,6 +18,7 @@ theme = "maverick"
   logo = "/assets/favicon.ico"
   description = "Software engineer with a thrill for infrastructure"
   author = "Marvin Murithi"
+   canonicalURL = true 
 
   [params.comments]
     enabled = true
