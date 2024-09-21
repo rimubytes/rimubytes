@@ -1,4 +1,4 @@
-baseURL = "https://marvin.dev"
+baseURL = "https://github.com/rimubytes/rimubytes"
 relativeURLs = true
 languageCode = "en-us"
 title = "Marvin Murithi | Site Reliability Engineer"
