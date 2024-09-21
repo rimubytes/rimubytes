@@ -39,19 +39,19 @@ theme = "maverick"
   [[menu.main]]
     identifier = "portfolio"
     name = "Portfolio"
-    url = "/portfolio/"
+    url = "portfolio/"
     weight = 2
 
   [[menu.main]]
     identifier = "blogs"
     name = "Blogs"
-    url = "/blogs/"
+    url = "blogs/"
     weight = 3
 
   [[menu.main]]
     identifier = "papershelf"
     name = "Papershelf"
-    url = "/papershelf/"
+    url = "papershelf/"
     weight = 4
     
 [markup]
