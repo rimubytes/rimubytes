@@ -1,6 +1,5 @@
-baseURL = "https://rimubytes.github.io/"
+baseURL = "https://github.com/rimubytes/rimubytes"
 relativeURLs = true
-canonifyURL = false
 languageCode = "en-us"
 title = "Marvin Murithi | Site Reliability Engineer"
 paginate = 3
