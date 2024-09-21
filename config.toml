@@ -43,11 +43,13 @@ canonifyHREF = false
     weight = 1
 
   [[menu.main]]
+    identifier = "portfolio"
     name = "Portfolio"
     url = "portfolio/"
     weight = 2
 
   [[menu.main]]
+    identifier = "blogs"
     name = "Blogs"
     url = "blogs/"
     weight = 3
