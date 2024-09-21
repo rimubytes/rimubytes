@@ -1,4 +1,4 @@
-baseURL = "https://rimubytes.github.io/rimubytes/"
+baseURL = "https://rimubytes.github.io/"
 relativeURLs = true
 canonifyURL = false
 languageCode = "en-us"
