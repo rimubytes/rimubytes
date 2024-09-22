@@ -12,7 +12,7 @@ spec:
     - type: "LinkedIn Profile 🌐"
       where: "linkedin.com/in/m-murithi"
     - type: "Personal Blog 📝"
-      where: "[marvin_blog](https://rimubytes.github.io/rimubytes/blogs/)"
+      where: "https://rimubytes.github.io/rimubytes/blogs/"
   favourites:
     number: "24 - The Number of Completeness and Wholeness"
     animal: "🐶 - Man's best friend"
