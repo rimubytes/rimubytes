@@ -1,4 +1,6 @@
-baseURL = "https://rimubytes.github.io/rimubytes"
+# config.toml
+
+baseURL = "https://rimubytes.github.io/rimubytes/"
 relativeURLs = true
 languageCode = "en-us"
 title = "Marvin Murithi | Site Reliability Engineer"
@@ -9,21 +11,21 @@ theme = "maverick"
 canonifyURLs = false
 canonifyHREF = false
 
-
 [permalinks]
   post = "/posts/:slug/"
   portfolio = "/portfolio/:slug/"
   blog = "/blogs/:slug/"
+  papershelf = "/papershelf/:slug/"
 
 [params]
   logo = "/assets/favicon.ico"
   description = "Software engineer with a thrill for infrastructure"
   author = "Marvin Murithi"
-   canonicalURL = true 
+  canonicalURL = true 
 
   [params.comments]
     enabled = true
-    githubRepo = "yourusername/yourrepo"
+    githubRepo = "rimubytes/rimubytes"
     theme = "github-light"
 
   # Footer Rights
@@ -45,19 +47,19 @@ canonifyHREF = false
   [[menu.main]]
     identifier = "portfolio"
     name = "Portfolio"
-    url = "/portfolio"
+    url = "/portfolio/"
     weight = 2
   [[menu.main]]
     identifier = "blogs"
     name = "Blogs"
-    url = "/blogs"
+    url = "/blogs/"
     weight = 3
   [[menu.main]]
     identifier = "papershelf"
     name = "Papershelf"
-    url = "/papershelf"
+    url = "/papershelf/"
     weight = 4
-    
+
 [markup]
   [markup.goldmark.renderer]
     unsafe = true
