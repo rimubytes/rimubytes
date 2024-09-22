@@ -11,7 +11,9 @@ canonifyHREF = false
 
 
 [permalinks]
-  pages = "/:slug"
+  post = "/posts/:slug/"
+  portfolio = "/portfolio/:slug/"
+  blog = "/blogs/:slug/"
 
 [params]
   logo = "/assets/favicon.ico"
