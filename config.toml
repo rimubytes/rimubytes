@@ -11,7 +11,9 @@ canonifyHREF = false
 
 
 [permalinks]
-  pages = "/:slug"
+  portfolio = "/portfolio/:slug/"
+  blog = "/blog/:year/:month/:title/"
+  papershelf = "/papershelf/:slug"
 
 [params]
   logo = "/assets/favicon.ico"
