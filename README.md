@@ -8,11 +8,11 @@ spec:
   purpose: "Bringing creativity and innovation to the tech world"
   locations:
     - type: "GitHub Repositories 🛠️"
-      where: "github.com/m-murithi"
+      where: "github.com/rimubytes"
     - type: "LinkedIn Profile 🌐"
       where: "linkedin.com/in/m-murithi"
     - type: "Personal Blog 📝"
-      where: "marvinmurithi.com/blog"
+      where: "[marvin_blog](https://rimubytes.github.io/rimubytes/blogs/)"
   favourites:
     number: "24 - The Number of Completeness and Wholeness"
     animal: "🐶 - Man's best friend"
