@@ -8,7 +8,7 @@ theme = 'maverick'
   pages = "/:slug"
 
 [params]
-  logo = '/assets/favicon.ico'
+  logo = 'static/assets/favicon.ico'
   description = "Software engineer with a thrill for infrastructure"
   author = 'Marvin Murithi'
 
